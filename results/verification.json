@@ -1,0 +1,13 @@
+{
+  "causal_cutoff_KST": "2026-11-14T12:00",
+  "historical_feature_rows_unchanged": {
+    "ALL": 1434870,
+    "AC_SLOW": 984145,
+    "DC_COMBO": 546830
+  },
+  "http_replayed_batches": 36,
+  "http_replayed_items": 307,
+  "max_probability_error": 0.0,
+  "batch_10_ok_11_rejected": true,
+  "partial_unavailable_verified": true
+}

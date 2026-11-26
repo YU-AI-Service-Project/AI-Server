@@ -1,0 +1,23 @@
+{
+  "source": "03238aef9095a6760a304dff27a859e3886743c40d0fbd4e7c28334303306fc9",
+  "ticks": 2276,
+  "station_counts": {
+    "ALL": 1926,
+    "AC_SLOW": 1321,
+    "DC_COMBO": 734
+  },
+  "features": [
+    "availabilityLosses15",
+    "availabilityGains15",
+    "chargeStarts30",
+    "chargeEnds30",
+    "availableAgeMin",
+    "availableAgeKnownFraction",
+    "chargingElapsedMin",
+    "recentChargingCount",
+    "longChargingCount"
+  ],
+  "state_event_rows": 340329,
+  "known_time": "Collection completed through asOf",
+  "incomplete_runs": 23
+}

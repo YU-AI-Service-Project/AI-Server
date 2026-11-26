@@ -1,0 +1,70 @@
+{
+  "model_version": "wattup-eta-v9-20261126",
+  "selected": "event_enhanced",
+  "model_file": "event_enhanced.txt",
+  "features": [
+    "totalCount",
+    "availableCount",
+    "chargingCount",
+    "otherCount",
+    "unknownCount",
+    "hourSin",
+    "hourCos",
+    "dowSin",
+    "dowCos",
+    "profileIndex",
+    "availableRatio",
+    "chargingRatio",
+    "availableLag5",
+    "availableLag15",
+    "availableLag30",
+    "chargingLag15",
+    "availableMean30",
+    "availableMin30",
+    "availableTrend30",
+    "observedChanges30m",
+    "changesPerCharger30m",
+    "chargingElapsedMeanMin",
+    "chargingElapsedMaxMin",
+    "chargingElapsedValidRatio",
+    "meanOutputKw",
+    "acSlowFraction",
+    "dcComboFraction",
+    "availabilityLosses15",
+    "availabilityGains15",
+    "chargeStarts30",
+    "chargeEnds30",
+    "availableAgeMin",
+    "availableAgeKnownFraction",
+    "chargingElapsedMin",
+    "recentChargingCount",
+    "longChargingCount",
+    "horizonMinutes"
+  ],
+  "feature_version": "daegu-eta-v9-events-37",
+  "profiles": {
+    "ALL": 0,
+    "AC_SLOW": 1,
+    "DC_COMBO": 2
+  },
+  "max_state_age_seconds": 450,
+  "calibrators": {
+    "0": {
+      "coefficients": [
+        1.0748420409348145,
+        0.48456576043246735,
+        -1.4518192112480044e-05
+      ],
+      "intercept": -0.07813725125405278
+    },
+    "1": {
+      "coefficients": [
+        1.0573530842693644,
+        -0.07466228195995317,
+        -0.07082919651731134
+      ],
+      "intercept": 0.1355524094902637
+    }
+  },
+  "production_ready": false
+}
