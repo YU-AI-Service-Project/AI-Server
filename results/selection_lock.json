@@ -1,0 +1,21 @@
+{
+  "data_sha256": "03238aef9095a6760a304dff27a859e3886743c40d0fbd4e7c28334303306fc9",
+  "selected": "event_enhanced",
+  "model_sha256": "f948efb746e37c876357f12946f2d16e82090db43cdd2295dbd869556ec59ad5",
+  "card_sha256": "ffd5703e0f66131380e0bd7e54c6dd82bd9f8b6d5b71cbd1d9990945ee6e5b3c",
+  "candidates": {
+    "core_refit": {
+      "ALL_brier": 0.019610080827007187,
+      "last_slot_brier": 0.03508556109732938,
+      "selection_loss": 0.024252724908103845,
+      "best_iteration": 299
+    },
+    "event_enhanced": {
+      "ALL_brier": 0.019552962085547052,
+      "last_slot_brier": 0.034784240242470815,
+      "selection_loss": 0.024122345532624177,
+      "best_iteration": 300
+    }
+  },
+  "selection": "70% overall ALL Brier and 30% last-slot ALL Brier on 16 Nov; raw scores"
+}

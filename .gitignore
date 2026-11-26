@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.log
+*.zip
+training/state_replay/
+training/event_data/
+training/retrained/

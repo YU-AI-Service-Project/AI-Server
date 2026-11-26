@@ -1,0 +1,347 @@
+{
+  "model": {
+    "v8": {
+      "ALL": {
+        "rows": 1503687,
+        "brier": 0.019488518701297017,
+        "actual_rate": 0.9314272185634377,
+        "mean_prediction": 0.9365657668407842
+      },
+      "ALL_last_slot": {
+        "rows": 515895,
+        "brier": 0.033826025084286226,
+        "actual_rate": 0.9638996307388131,
+        "mean_prediction": 0.9756705288130101,
+        "loss_average_precision": 0.10397442427814838
+      },
+      "ALL_currently_unavailable": {
+        "rows": 102974,
+        "brier": 0.0980725541886434,
+        "actual_rate": 0.19686522811583507,
+        "mean_prediction": 0.2044506649660465
+      },
+      "ALL_5min": {
+        "rows": 132430,
+        "brier": 0.005481049373852658,
+        "actual_rate": 0.9308162802990259,
+        "mean_prediction": 0.9322300330775063
+      },
+      "ALL_10min": {
+        "rows": 128993,
+        "brier": 0.010083293990258634,
+        "actual_rate": 0.9312288263704231,
+        "mean_prediction": 0.9338324659539202
+      },
+      "ALL_15min": {
+        "rows": 128959,
+        "brier": 0.013330620411654477,
+        "actual_rate": 0.931404554936065,
+        "mean_prediction": 0.935013954688154
+      },
+      "ALL_20min": {
+        "rows": 128930,
+        "brier": 0.015754744427195096,
+        "actual_rate": 0.9315442488171877,
+        "mean_prediction": 0.9358396747983384
+      },
+      "ALL_25min": {
+        "rows": 127201,
+        "brier": 0.018114257546564434,
+        "actual_rate": 0.9312505404831724,
+        "mean_prediction": 0.9357796504911952
+      },
+      "ALL_30min": {
+        "rows": 125604,
+        "brier": 0.020442566602485692,
+        "actual_rate": 0.9311327664724053,
+        "mean_prediction": 0.9365054975155553
+      },
+      "ALL_35min": {
+        "rows": 125581,
+        "brier": 0.022196817843368542,
+        "actual_rate": 0.9312873762750734,
+        "mean_prediction": 0.936982508217069
+      },
+      "ALL_40min": {
+        "rows": 122226,
+        "brier": 0.023989891539645473,
+        "actual_rate": 0.9316184772470669,
+        "mean_prediction": 0.9381994679554486
+      },
+      "ALL_45min": {
+        "rows": 122205,
+        "brier": 0.025132136803335158,
+        "actual_rate": 0.9318603985106992,
+        "mean_prediction": 0.9385632403496161
+      },
+      "ALL_50min": {
+        "rows": 122203,
+        "brier": 0.026060401230066477,
+        "actual_rate": 0.9319083819546164,
+        "mean_prediction": 0.9380921121097573
+      },
+      "ALL_55min": {
+        "rows": 120479,
+        "brier": 0.027142640938670214,
+        "actual_rate": 0.9316229384374041,
+        "mean_prediction": 0.939148599136148
+      },
+      "ALL_60min": {
+        "rows": 118876,
+        "brier": 0.02868688996615206,
+        "actual_rate": 0.9315336989804502,
+        "mean_prediction": 0.9393774371840277
+      }
+    },
+    "v9": {
+      "ALL": {
+        "rows": 1503687,
+        "brier": 0.019308789611725687,
+        "actual_rate": 0.9314272185634377,
+        "mean_prediction": 0.9335682225523129
+      },
+      "ALL_last_slot": {
+        "rows": 515895,
+        "brier": 0.03315964290012282,
+        "actual_rate": 0.9638996307388131,
+        "mean_prediction": 0.967427243452247,
+        "loss_average_precision": 0.12252142660571273
+      },
+      "ALL_currently_unavailable": {
+        "rows": 102974,
+        "brier": 0.0988398201358035,
+        "actual_rate": 0.19686522811583507,
+        "mean_prediction": 0.20768380711399198
+      },
+      "ALL_5min": {
+        "rows": 132430,
+        "brier": 0.005487611022876951,
+        "actual_rate": 0.9308162802990259,
+        "mean_prediction": 0.9313156720216049
+      },
+      "ALL_10min": {
+        "rows": 128993,
+        "brier": 0.010130587880433806,
+        "actual_rate": 0.9312288263704231,
+        "mean_prediction": 0.9322999429153731
+      },
+      "ALL_15min": {
+        "rows": 128959,
+        "brier": 0.013289613173907033,
+        "actual_rate": 0.931404554936065,
+        "mean_prediction": 0.9330958079778768
+      },
+      "ALL_20min": {
+        "rows": 128930,
+        "brier": 0.015659524550011947,
+        "actual_rate": 0.9315442488171877,
+        "mean_prediction": 0.9335743938105493
+      },
+      "ALL_25min": {
+        "rows": 127201,
+        "brier": 0.01802384815135819,
+        "actual_rate": 0.9312505404831724,
+        "mean_prediction": 0.9330757998678096
+      },
+      "ALL_30min": {
+        "rows": 125604,
+        "brier": 0.020283444177580368,
+        "actual_rate": 0.9311327664724053,
+        "mean_prediction": 0.9331906118866853
+      },
+      "ALL_35min": {
+        "rows": 125581,
+        "brier": 0.021979735151379427,
+        "actual_rate": 0.9312873762750734,
+        "mean_prediction": 0.9334688047371665
+      },
+      "ALL_40min": {
+        "rows": 122226,
+        "brier": 0.023715135408125223,
+        "actual_rate": 0.9316184772470669,
+        "mean_prediction": 0.934512910950512
+      },
+      "ALL_45min": {
+        "rows": 122205,
+        "brier": 0.02483055522555109,
+        "actual_rate": 0.9318603985106992,
+        "mean_prediction": 0.9347539850502976
+      },
+      "ALL_50min": {
+        "rows": 122203,
+        "brier": 0.025737291724078935,
+        "actual_rate": 0.9319083819546164,
+        "mean_prediction": 0.9340483612017326
+      },
+      "ALL_55min": {
+        "rows": 120479,
+        "brier": 0.026814495513063995,
+        "actual_rate": 0.9316229384374041,
+        "mean_prediction": 0.9348515259164129
+      },
+      "ALL_60min": {
+        "rows": 118876,
+        "brier": 0.028254034377877102,
+        "actual_rate": 0.9315336989804502,
+        "mean_prediction": 0.9350060644190282
+      }
+    }
+  },
+  "recommendation": {
+    "v8": {
+      "distance": {
+        "queries": 36785,
+        "available_first_choices": 35446,
+        "arrival_success": 0.963599293190159,
+        "mean_distance_km": 4.168501390593672,
+        "mean_eta_minutes": 16.66073127633546,
+        "would_be_available_among_solvable": 0.963599293190159
+      },
+      "probability": {
+        "queries": 36785,
+        "available_first_choices": 36784,
+        "arrival_success": 0.9999728150061167,
+        "mean_distance_km": 5.905473455241271,
+        "mean_eta_minutes": 20.893706673916,
+        "would_be_available_among_solvable": 0.9999728150061167
+      },
+      "balanced": {
+        "queries": 36785,
+        "available_first_choices": 36618,
+        "arrival_success": 0.9954601060214762,
+        "mean_distance_km": 4.213318240769646,
+        "mean_eta_minutes": 16.760636128856873,
+        "would_be_available_among_solvable": 0.9954601060214762
+      }
+    },
+    "v9": {
+      "distance": {
+        "queries": 36785,
+        "available_first_choices": 35447,
+        "arrival_success": 0.9636264781840425,
+        "mean_distance_km": 4.168501390593672,
+        "mean_eta_minutes": 16.66073127633546,
+        "would_be_available_among_solvable": 0.9636264781840425
+      },
+      "probability": {
+        "queries": 36785,
+        "available_first_choices": 36785,
+        "arrival_success": 1.0,
+        "mean_distance_km": 5.870049843748245,
+        "mean_eta_minutes": 20.76185945358162,
+        "would_be_available_among_solvable": 1.0
+      },
+      "balanced": {
+        "queries": 36785,
+        "available_first_choices": 36643,
+        "arrival_success": 0.9961397308685606,
+        "mean_distance_km": 4.215374620789084,
+        "mean_eta_minutes": 16.771238276471387,
+        "would_be_available_among_solvable": 0.9961397308685606
+      }
+    }
+  },
+  "splits": {
+    "train": {
+      "rows": 900000,
+      "available_rate": 0.7982844444444445,
+      "candidate_pairs": 31187886,
+      "candidate_transitions": 862372,
+      "transitions_used": 287661,
+      "as_of_first": "2026-11-11T22:30",
+      "as_of_last": "2026-11-15T23:50",
+      "target_last": "2026-11-15T23:55",
+      "ALL_rows": 300000
+    },
+    "tune": {
+      "rows": 1300910,
+      "available_rate": 0.9231699348917296,
+      "candidate_pairs": 1300910,
+      "candidate_transitions": 36400,
+      "transitions_used": 36400,
+      "as_of_first": "2026-11-16T00:00",
+      "as_of_last": "2026-11-16T23:30",
+      "target_last": "2026-11-16T23:55",
+      "ALL_rows": 625034
+    },
+    "calibration": {
+      "rows": 573566,
+      "available_rate": 0.9273998110069286,
+      "candidate_pairs": 573566,
+      "candidate_transitions": 11344,
+      "transitions_used": 11344,
+      "as_of_first": "2026-11-17T00:00",
+      "as_of_last": "2026-11-17T23:30",
+      "target_last": "2026-11-17T23:55",
+      "ALL_rows": 276647
+    },
+    "test": {
+      "rows": 3119815,
+      "available_rate": 0.9280569520949159,
+      "candidate_pairs": 3119815,
+      "candidate_transitions": 87731,
+      "transitions_used": 87731,
+      "as_of_first": "2026-11-18T00:00",
+      "as_of_last": "2026-11-19T19:30",
+      "target_last": "2026-11-19T19:35",
+      "ALL_rows": 1503687
+    }
+  },
+  "maximum_candidates": 10,
+  "route_evaluation": "Proxy km from geodesic distance x1.25; replay ETA derived from distance",
+  "test_status": "18–19 Nov, reused held-out dates for prior model iterations; not a fresh field study",
+  "recommendation_stress": {
+    "busy_only": {
+      "distance": {
+        "queries": 2042,
+        "available_first_choices": 354,
+        "arrival_success": 0.1733594515181195,
+        "mean_distance_km": 3.9022368682305997,
+        "mean_eta_minutes": 16.043095004897157,
+        "would_be_available_among_solvable": 0.6051282051282051
+      },
+      "probability": {
+        "queries": 2042,
+        "available_first_choices": 469,
+        "arrival_success": 0.2296767874632713,
+        "mean_distance_km": 4.228064980962522,
+        "mean_eta_minutes": 16.976003917727716,
+        "would_be_available_among_solvable": 0.8017094017094017
+      },
+      "balanced": {
+        "queries": 2042,
+        "available_first_choices": 462,
+        "arrival_success": 0.22624877571008814,
+        "mean_distance_km": 4.020314248370347,
+        "mean_eta_minutes": 16.329578844270323,
+        "would_be_available_among_solvable": 0.7897435897435897
+      }
+    },
+    "last_slot_mixed": {
+      "distance": {
+        "queries": 9038,
+        "available_first_choices": 5967,
+        "arrival_success": 0.66021243637973,
+        "mean_distance_km": 3.7379863002298364,
+        "mean_eta_minutes": 15.41048904624917,
+        "would_be_available_among_solvable": 0.6708263069139966
+      },
+      "probability": {
+        "queries": 9038,
+        "available_first_choices": 8809,
+        "arrival_success": 0.974662535959283,
+        "mean_distance_km": 4.091299828788531,
+        "mean_eta_minutes": 16.15456959504315,
+        "would_be_available_among_solvable": 0.9903316469926925
+      },
+      "balanced": {
+        "queries": 9038,
+        "available_first_choices": 8783,
+        "arrival_success": 0.9717857933171056,
+        "mean_distance_km": 4.057027597346761,
+        "mean_eta_minutes": 16.07490595264439,
+        "would_be_available_among_solvable": 0.9874086565486229
+      }
+    }
+  }
+}

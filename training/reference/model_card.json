@@ -1,0 +1,46 @@
+{
+  "model_version": "wattup-eta-v8-arrival-20261119",
+  "model_file": "arrival_classifier.txt",
+  "feature_version": "daegu-eta-v5-28",
+  "features": [
+    "totalCount",
+    "availableCount",
+    "chargingCount",
+    "otherCount",
+    "unknownCount",
+    "hourSin",
+    "hourCos",
+    "dowSin",
+    "dowCos",
+    "profileIndex",
+    "availableRatio",
+    "chargingRatio",
+    "availableLag5",
+    "availableLag15",
+    "availableLag30",
+    "chargingLag15",
+    "availableMean30",
+    "availableMin30",
+    "availableTrend30",
+    "observedChanges30m",
+    "changesPerCharger30m",
+    "chargingElapsedMeanMin",
+    "chargingElapsedMaxMin",
+    "chargingElapsedValidRatio",
+    "meanOutputKw",
+    "acSlowFraction",
+    "dcComboFraction",
+    "horizonMinutes"
+  ],
+  "profiles": {
+    "ALL": 0,
+    "AC_SLOW": 1,
+    "DC_COMBO": 2
+  },
+  "max_state_age_seconds": 450,
+  "production_ready": false,
+  "probability": {
+    "score_multiplier": 1.0945768387949435,
+    "intercept": 0.20907389338117535
+  }
+}
